@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1621969335 source:c:\users\user\documents\code blocks\a1_p3_20190336_20190378_20190214\main.cpp
+	"matrix.h"
+	<iostream>
+	"MatrixCalculator.h"
+
+1621969335 c:\users\user\documents\code blocks\a1_p3_20190336_20190378_20190214\include\matrix.h
+	<iostream>
+
+1621969335 c:\users\user\documents\code blocks\a1_p3_20190336_20190378_20190214\include\matrixcalculator.h
+
+1621969335 source:c:\users\user\documents\code blocks\a1_p3_20190336_20190378_20190214\src\matrix.cpp
+	"Matrix.h"
+
+1621969335 source:c:\users\user\documents\code blocks\a1_p3_20190336_20190378_20190214\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	"Matrix.h"
+	<iostream>
+
+1621969335 source:d:\fci\semester 4\data structure\a1_20190336_20190214_20190378\a1_p3_20190336_20190378_20190214\main.cpp
+	"matrix.h"
+	<iostream>
+	"MatrixCalculator.h"
+
+1621969335 d:\fci\semester 4\data structure\a1_20190336_20190214_20190378\a1_p3_20190336_20190378_20190214\include\matrix.h
+	<iostream>
+
+1621969335 d:\fci\semester 4\data structure\a1_20190336_20190214_20190378\a1_p3_20190336_20190378_20190214\include\matrixcalculator.h
+
+1621969335 source:d:\fci\semester 4\data structure\a1_20190336_20190214_20190378\a1_p3_20190336_20190378_20190214\src\matrix.cpp
+	"Matrix.h"
+
+1621969335 source:d:\fci\semester 4\data structure\a1_20190336_20190214_20190378\a1_p3_20190336_20190378_20190214\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	"Matrix.h"
+	<iostream>
+
